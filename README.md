@@ -1,7 +1,5 @@
 # Luna: Python Chatbot
 
-![Python Chatbot](chatbot.jpg)
-
 A simple Python chatbot that provides greetings and Wikipedia links based on user input.
 
 ## Table of Contents
